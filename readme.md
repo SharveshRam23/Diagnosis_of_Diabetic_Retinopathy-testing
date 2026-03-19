@@ -36,15 +36,6 @@ Diabetic Retinopathy is a complication of diabetes that can lead to vision loss 
 ✅ **Ensemble Learning** – Combines multiple models to increase accuracy and reduce overfitting.  
 ✅ **Real-Time Diagnostics** – Provides a **Gradio-based UI** for users to upload images and receive **instant** diagnostic results.  
 
----
-
-## 🛠️ **Installation**  
-
-📥 Clone the repository:  
-```bash
- git clone https://github.com/shreyasskrishna/Diagnosis_of_Diabetic_Retinopathy/tree/testing
-```
-
 ## 🔬 **Model Training**  
 
 1️⃣ **🖼 Data Preprocessing** – The dataset of retinal images undergoes **resizing, normalization, and augmentation** to improve model performance.  
