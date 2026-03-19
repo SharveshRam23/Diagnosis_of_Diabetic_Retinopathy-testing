@@ -1,8 +1,5 @@
 # 🚀 **Diagnosis of Diabetic Retinopathy using Multi-Model Approach (ML & DL)**
 
-**📆 VII SEM PROJECT**   
-👥 **Team Members:** 2  
-
 ## 📝 **Project Overview**  
 
 This project aims to develop an advanced **retinal image classification system** to **diagnose Diabetic Retinopathy** (DR) in its early stages. By leveraging the power of **Machine Learning (ML)** and **Deep Learning (DL)**, we have implemented a **multi-model approach** to provide accurate and reliable DR detection, helping to prevent vision loss and improve patient outcomes.
@@ -78,19 +75,7 @@ We **welcome contributions** from the community! 🌍💡 If you have suggestion
 🔹 **Push to your branch** (`git push origin feature-branch`)  
 🔹 **Submit a Pull Request**  
 
----
-
-## 📄 **License**  
-
-📜 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
 
 
-## 🌟 **Acknowledgments**  
-
-🙏 Special thanks to all contributors!  
-🔹 This project utilizes **[Gradio](https://gradio.app/)** for the interactive UI.  
-🔹 We used the **Diabetic Retinopathy Detection Dataset** for model training and evaluation.  
-
----
 
 > ✨ **"A small change in the right direction can save vision."** 👁️  
